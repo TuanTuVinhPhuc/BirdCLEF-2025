@@ -10,7 +10,7 @@ We explored two main approaches for classification:
 1. **CNN on Mel-Spectrograms**  
 2. **Transfer Learning on Audio Embeddings**  
 
-Our final ranking was **536th** with a leaderboard ROC-AUC score of **0.817**.
+Our final ranking was **336th** with a leaderboard ROC-AUC score of **0.857**.
 
 **Keywords:** Transfer Learning, Dataset Annotation, Embeddings, Association Rule Mining, BirdNET, EnCodec, Google Bird Vocalization Classifier.
 
@@ -114,7 +114,7 @@ The task is to **predict the presence of each species in 5-second segments** of 
 ## 📈 Results & Conclusion
 - **Best performance:** Semi-supervised CNN with Mel-spectrograms and model ensembling  
 - **Leaderboard score:** 0.857 ROC-AUC  
-- **Final ranking:** 536th  
+- **Final ranking:** 336th  
 - Transfer-learning approach promising but limited by resources  
 
 > This project demonstrates **practical bioacoustic classification** using CNNs, embeddings, pseudo-labeling, and ensembling, providing a strong foundation for future research on multi-species soundscape analysis.
