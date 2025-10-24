@@ -113,7 +113,7 @@ The task is to **predict the presence of each species in 5-second segments** of 
 
 ## 📈 Results & Conclusion
 - **Best performance:** Semi-supervised CNN with Mel-spectrograms and model ensembling  
-- **Leaderboard score:** 0.817 ROC-AUC  
+- **Leaderboard score:** 0.857 ROC-AUC  
 - **Final ranking:** 536th  
 - Transfer-learning approach promising but limited by resources  
 
